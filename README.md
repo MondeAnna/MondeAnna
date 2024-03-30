@@ -1,9 +1,11 @@
 <div align="center">
     <br />
     <br />
-    <p>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MondeAnna&theme=default&hide_border=true" />
-    </p>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mondeanna&theme=city_lights" />
+        <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MondeAnna&theme=default&hide_border=true" />
+        <img alt="github-snake" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MondeAnna&theme=default&hide_border=true" />
+    </picture>
     <br />
     <br />
 </div>
@@ -28,19 +30,33 @@
 <div align="center">
     <br />
     <br />
-    <p>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MondeAnna&theme=default&hide_border=true" />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MondeAnna&theme=default&hide_border=true" />
-    </p>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mondeanna&theme=city_lights" />
+        <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mondeanna&theme=default" />
+        <img alt="github-snake" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mondeanna&theme=default" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mondeanna&theme=city_lights" />
+        <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mondeanna&theme=default" />
+        <img alt="github-snake" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mondeanna&theme=default" />
+    </picture>
     <br />
     <br />
     <br />
     <br />
-    <p>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MondeAnna&theme=default&hide_border=true" />
-    </p>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MondeAnna&theme=city_lights&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MondeAnna&theme=default&hide_border=true" />
+        <img alt="github-snake" src="https://github-readme-streak-stats.herokuapp.com/?user=MondeAnna&theme=default&hide_border=true" />
+    </picture>
 </div>
 
 <br />
 <br />
 <br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MondeAnna/MondeAnna/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MondeAnna/MondeAnna/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/MondeAnna/MondeAnna/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
