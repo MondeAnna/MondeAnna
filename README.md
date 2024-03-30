@@ -22,8 +22,6 @@
     </a>
     <br />
     <br />
-    <br />
-    <br />
 </div>
 
 
@@ -51,7 +49,6 @@
     </picture>
 </div>
 
-<br />
 <br />
 <br />
 
