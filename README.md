@@ -2,6 +2,19 @@
     <br />
     <br />
     <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MondeAnna/MondeAnna/blob/output/name-banner-dark.png" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/MondeAnna/MondeAnna/blob/output/name-banner-lite.png" />
+        <img alt="github-snake" src="https://github.com/MondeAnna/MondeAnna/blob/output/name-banner-lite.png" />
+    </picture>
+    <br />
+    <br />
+</div>
+
+
+<div align="center">
+    <br />
+    <br />
+    <picture>
         <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mondeanna&theme=city_lights" />
         <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MondeAnna&theme=default&hide_border=true" />
         <img alt="github-snake" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MondeAnna&theme=default&hide_border=true" />
