@@ -2,7 +2,7 @@
     <br />
     <br />
     <p>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MondeAnna&theme=default" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MondeAnna&theme=default&hide_border=true" />
     </p>
     <br />
     <br />
@@ -29,8 +29,8 @@
     <br />
     <br />
     <p>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MondeAnna&theme=default" />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MondeAnna&theme=default" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MondeAnna&theme=default&hide_border=true" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MondeAnna&theme=default&hide_border=true" />
     </p>
     <br />
     <br />
