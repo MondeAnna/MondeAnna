@@ -2,9 +2,9 @@
     <br />
     <br />
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MondeAnna/MondeAnna/blob/output/name-banner-dark.png" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github.com/MondeAnna/MondeAnna/blob/output/name-banner-lite.png" />
-        <img alt="github-snake" src="https://github.com/MondeAnna/MondeAnna/blob/output/name-banner-lite.png" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MondeAnna/MondeAnna/blob/img/name-banner-dark.png" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/MondeAnna/MondeAnna/blob/img/name-banner-lite.png" />
+        <img alt="github-snake" src="https://github.com/MondeAnna/MondeAnna/blob/img/name-banner-lite.png" />
     </picture>
     <br />
     <br />
